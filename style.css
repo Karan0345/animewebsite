@@ -65,15 +65,13 @@ html,body{
 #btwo{
     width: 25%;
     min-height: inherit;
-    background-color: #000000;
-    color: white;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
     padding: 40px;
 }
 #btwo p{
     font-size: 12px;
     margin-top: 10px;
-    font-weight: 1000;
-    font-style: italic;
 }
 #bthree{
     width: 20%;
@@ -83,12 +81,13 @@ html,body{
     width: 100%;
     min-height: 20vh;
     padding: 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(35, 225, 171, 0.821);
 }
 #bthreebottom p{
     font-size: 12px;
     margin-top: 10px;
-}
+    color: black;
+    }
 #bthreetop{
     width: 100%;
     min-height: 20vh;
